@@ -23,7 +23,7 @@ public class second {
     public static void main(String[] args){
         for (int i =0 ; i<1000 ; i++){
             if (arms(i)){
-                System.out.println(i +" ");
+                System.out.print(i +" ");
             }
         }
     }

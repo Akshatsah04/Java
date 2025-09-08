@@ -8,7 +8,6 @@ public class second {
         int y = scanner.nextInt();
         System.out.println("Enter the third value");
         int z = scanner.nextInt();
-
         if (x>y){
             if (x>z) {
                 System.out.println(x + " is the largest number");
